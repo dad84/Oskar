@@ -9,6 +9,12 @@ Here you will find everything that i send to you . Just in case its will get los
 
 <!-- Here you will find decoder to read everything, when you ready .-->
 
+- [x] 13.06.2022 mail send out  https://github.com/dad84/Oskar/blob/main/Mano%20s%C5%ABnui.pdf
+
+
+
+
+
 - [x] Mail Copys     📫 
 - [ ] Pictures       🖼️
 - [ ] Some Secrets   ㊙️[Mano sūnui.pdf](https://github.com/dad84/Oskar/files/8892675/Mano.sunui.pdf)

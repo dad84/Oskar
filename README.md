@@ -17,4 +17,4 @@ Here you will find everything that i send to you . Just in case its will get los
 
 - [x] Mail Copys     📫 
 - [ ] Pictures       🖼️
-- [ ] Some Secrets   ㊙️[Mano sūnui.pdf](https://github.com/dad84/Oskar/files/8892675/Mano.sunui.pdf)
+- [ ] Some Secrets   ㊙️

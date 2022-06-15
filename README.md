@@ -10,9 +10,10 @@ Here you will find everything that i send to you . Just in case its will get los
 
 <!-- Here you will find decoder to read everything, when you ready .-->
 
-- [x] 13.06.2022 mail send out [First Mail Copy](https://github.com/dad84/Oskar/blob/main/Mano%20s%C5%ABnui.pdf "12.06.2022")
-- [ ] 20.06.2022
-
+- [x] 13.06.2022 mail send out   [Mail Copy](https://github.com/dad84/Oskar/blob/main/Mano%20s%C5%ABnui.pdf "12.06.2022")
+- [x] 20.06.2022 mail to be sent [Mail Copy](https://github.com/dad84/Oskar/blob/main/Mano%20s%C5%ABnui%202.pdf "15.06.2022")
+- [ ] 27.06.2022 
+ 
 ------------
 
 - [x] Mail Copys     📫 

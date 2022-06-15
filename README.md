@@ -18,4 +18,4 @@ Here you will find everything that i send to you . Just in case its will get los
 
 - [x] Mail Copys     📫 
 - [ ] Pictures       🖼️
-- [ ] Some Secrets   ㊙️
+- [x] Some Secrets   ㊙️
